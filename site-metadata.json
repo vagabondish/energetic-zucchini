@@ -17,14 +17,14 @@
             },
             {
                 "type": "action",
-                "label": "About",
-                "url": "/about",
+                "label": "One",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "One",
-                "url": "/style-guide",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
