@@ -23,7 +23,7 @@
             },
             {
                 "type": "action",
-                "label": "collec",
+                "label": "",
                 "url": "/about",
                 "style": "link"
             },
