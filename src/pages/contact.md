@@ -11,15 +11,6 @@ form_fields:
     default_value: Your email address
     is_required: true
   - type: form_field
-    input_type: select
-    name: subject
-    label: Subject
-    default_value: Please select
-    options:
-      - Feedback
-      - Sponsorship
-      - Other
-  - type: form_field
     input_type: textarea
     name: message
     label: Message
