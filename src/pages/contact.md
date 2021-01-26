@@ -16,7 +16,7 @@ form_fields:
     label: Subject
     default_value: Please select
     options:
-      - Error on the site
+      - Feed
       - Sponsorship
       - Other
   - type: form_field
