@@ -4,6 +4,13 @@ img_alt: ''
 form_id: contactForm
 form_action: /contact-success
 form_fields:
+  - input_type: text
+    name: Initials
+    label: Initials
+    default_value: How would you like to be addressed
+    options: []
+    is_required: false
+    type: form_field
   - type: form_field
     input_type: email
     name: email
@@ -21,13 +28,6 @@ form_fields:
     label: >-
       I understand that this form is storing my submitted information so I can
       be contacted.
-  - input_type: text
-    name: Initials
-    label: Initials
-    default_value: How would you like to be addressed
-    options: []
-    is_required: false
-    type: form_field
 submit_label: Send Message
 template: contact
 subtitle: ''
