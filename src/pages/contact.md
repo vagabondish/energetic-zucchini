@@ -6,7 +6,7 @@ form_action: /contact-success
 form_fields:
   - input_type: text
     name: Initials
-    label: Initials
+    label: Your Initials
     default_value: How would you like to be addressed
     options: []
     is_required: false
