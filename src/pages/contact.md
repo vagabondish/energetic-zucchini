@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-img_alt: Post in the door mailbox
+img_alt: ''
 form_id: contactForm
 form_action: /contact-success
 form_fields:
