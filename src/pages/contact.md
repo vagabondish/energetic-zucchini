@@ -24,7 +24,7 @@ form_fields:
   - input_type: text
     name: Initials
     label: Initials
-    default_value: ''
+    default_value: 'How '
     options: []
     is_required: false
     type: form_field
