@@ -23,7 +23,7 @@
             },
             {
                 "type": "action",
-                "label": "Tech",
+                "label": "",
                 "url": "/about",
                 "style": "link"
             },
