@@ -23,7 +23,7 @@
             },
             {
                 "type": "action",
-                "label": "",
+                "label": "news",
                 "url": "/about",
                 "style": "link"
             },
