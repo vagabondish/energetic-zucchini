@@ -5,12 +5,6 @@ form_id: contactForm
 form_action: /contact-success
 form_fields:
   - type: form_field
-    input_type: text
-    name: name
-    label: Name
-    default_value: Your name
-    is_required: true
-  - type: form_field
     input_type: email
     name: email
     label: Email
