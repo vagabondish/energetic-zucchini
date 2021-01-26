@@ -5,7 +5,7 @@
     "palette": "green",
     "header": {
         "type": "header",
-        "title": "",
+        "title": "InspiDaily",
         "logo_img_alt": "0/0 logo",
         "has_nav": true,
         "nav_links": [
