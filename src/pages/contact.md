@@ -22,7 +22,7 @@ form_fields:
       I understand that this form is storing my submitted information so I can
       be contacted.
   - input_type: text
-    name: lorem-ipsum
+    name: Initials
     label: lorem-ipsum
     default_value: lorem-ipsum
     options: []
