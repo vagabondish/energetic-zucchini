@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: About the project
-img_alt: A man standing on a rock outside the cave
+img_alt: ''
 template: page
 ---
 
