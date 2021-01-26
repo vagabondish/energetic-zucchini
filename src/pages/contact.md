@@ -40,5 +40,3 @@ submit_label: Send Message
 template: contact
 subtitle: ''
 ---
-
-Fill the form below to get in touch with me.
