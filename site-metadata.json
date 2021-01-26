@@ -6,7 +6,6 @@
     "header": {
         "type": "header",
         "title": "InspiDaily",
-        "logo_img": "images/logo.svg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
