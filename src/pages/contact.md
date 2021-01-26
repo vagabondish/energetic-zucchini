@@ -23,7 +23,7 @@ form_fields:
       be contacted.
   - input_type: text
     name: Initials
-    label: lorem-ipsum
+    label: Initials
     default_value: lorem-ipsum
     options: []
     is_required: false
