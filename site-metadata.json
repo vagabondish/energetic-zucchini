@@ -17,7 +17,7 @@
             },
             {
                 "type": "action",
-                "label": "One",
+                "label": "About",
                 "url": "/style-guide",
                 "style": "link"
             },
